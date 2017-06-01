@@ -1,0 +1,8 @@
+Question)Differentiate Between JVM, JDK and JRE.
+
+Solution- JVM is  known as Java Virtual Machine. It compiles the bytecode into machine understandable language. It is platform dependent.
+
+JDK is known as Java Development Kit, it provides toolkit for Java application development.javac is a part of this which is used to  compile Java code into bytecode.
+
+JRE also  as Java Runtime Environment, it contains all the stuff to run the bytecode.It is different for all the different Operating System.
+
